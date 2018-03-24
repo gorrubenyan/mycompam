@@ -1,0 +1,103 @@
+.kdw{
+	height:300px;
+	width:  350px;
+border: 5px solid greenyellow;
+    margin: auto;
+
+ margin:20px;
+ background-color:#ececec;
+display: inline-block;
+
+}
+
+.msc{
+    	height:300px;
+	width:  350px;
+border: 5px solid greenyellow;
+    margin: auto;
+
+ margin:20px;
+ background-color:#ececec;
+display: inline-block;
+}
+
+
+textarea{
+    background-color: black;
+    color: red;
+    font-family: "Comic sans MS";
+}
+.ktxt{
+    color: red;
+    font-family: "Comic sans MS";
+    font-size: 18px;
+}
+.txt{
+    text-align: center;
+    color: royalblue;
+    font-family: "Comic sans MS";
+    font-size: 20px;
+}
+
+
+
+.text{
+   text-align: center;
+    color: red;
+    font-family: "Comic sans MS";
+    font-size: 40px;
+}
+
+
+.regis{
+	
+border: 5px solid greenyellow;
+    margin: auto;
+color: greenyellow;
+ margin:20px;
+ background-color:red;
+display: inline-block;
+font-size: 50px;
+
+}
+
+
+
+.textt{
+    text-align: center;
+    color: lime;
+    font-family: "Comic sans MS";
+    font-size: 30px;
+}
+
+
+/*.main{
+	height:720px;
+    width: 1000px;
+    border: 1px solid black;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+	 
+}
+
+.a{
+	text-align: center;
+	color:#6CBFEC;
+}
+
+
+
+
+p{
+	font-family: "Comic sans MS";
+	text-shadow: 0.5px 0.5px;
+}
+
+.shlor{
+	float: left;
+	padding:0px 30px 0px 0px;
+}
+
+*/
+

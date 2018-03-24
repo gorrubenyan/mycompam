@@ -1,0 +1,49 @@
+
+
+
+.he{
+    color: royalblue;
+    background-color: greenyellow;
+}
+
+
+.he:hover{
+    background-color: orange;
+    color:greenyellow;
+}
+
+.navbar navbar-inverse navbar-static-top{
+    position: fixed;
+    right: 0px;
+    top: 0px;
+}
+/*.main{
+	height:720px;
+    width: 1000px;
+    border: 1px solid black;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+	 
+}
+
+.a{
+	text-align: center;
+	color:#6CBFEC;
+}
+
+
+
+
+p{
+	font-family: "Comic sans MS";
+	text-shadow: 0.5px 0.5px;
+}
+
+.shlor{
+	float: left;
+	padding:0px 30px 0px 0px;
+}
+
+*/
+
